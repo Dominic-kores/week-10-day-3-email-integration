@@ -322,12 +322,7 @@ React + Tailwind CSS Dashboard
 
 ## Live Project
 
-**Frontend:** Add your Vercel deployment URL here.
-
-**Backend:** Add your Railway deployment URL here.
-
 **GitHub Repository:** https://dominic-kores.github.io/week-10-day-3-email-integration/
-
 
 
 
